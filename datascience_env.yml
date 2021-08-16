@@ -1,0 +1,6 @@
+name: data_science
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - jupyterlab
