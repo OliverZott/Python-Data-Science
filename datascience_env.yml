@@ -4,5 +4,6 @@ dependencies:
   - numpy
   - pandas
   - jupyterlab
+  - matplotlib
   - seaborn
   - openpyxl
