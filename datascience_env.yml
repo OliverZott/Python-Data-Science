@@ -7,3 +7,6 @@ dependencies:
   - matplotlib
   - seaborn
   - openpyxl
+  - plotly
+  - dhirschfeld::cufflinks 
+  
