@@ -5,3 +5,24 @@
 *.svg
 *.eps
 !*.csv
+
+
+# IDEs
+.idea/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# CSVs
+*.csv
+.~lock.*
+
+# Plots
+*.jpg
+*.png
