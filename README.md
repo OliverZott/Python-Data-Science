@@ -41,6 +41,11 @@
     - `pip install -r requirements.txt --upgrade` or
     - `pip install pandas numpy jupyterlab matplotlib seaborn autopep8 openpyxl plotly cufflinks`
 
+# Remarks
+- **map**, **apply** [Link](https://stackoverflow.com/questions/19798153/difference-between-map-applymap-and-apply-methods-in-pandas)
+- **loc** instead chained indexing [Link](https://stackoverflow.com/questions/13842088/set-value-for-particular-cell-in-pandas-dataframe-using-index)
+- *List Comprehension* [Link](https://www.w3schools.com/python/python_lists_comprehension.asp)
+
 # Additional Resources
 
 ### Time Series
