@@ -46,6 +46,14 @@
 - **loc** instead chained indexing [Link](https://stackoverflow.com/questions/13842088/set-value-for-particular-cell-in-pandas-dataframe-using-index)
 - *List Comprehension* [Link](https://www.w3schools.com/python/python_lists_comprehension.asp)
 
+- Selection in dataframes
+    - https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
+
+
+
+
+
+
 # Additional Resources
 
 ### Time Series
