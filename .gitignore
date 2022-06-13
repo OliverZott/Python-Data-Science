@@ -26,3 +26,4 @@ venv.bak/
 # Plots
 *.jpg
 *.png
+/data/all_banks
